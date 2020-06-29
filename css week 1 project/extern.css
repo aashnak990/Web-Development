@@ -1,0 +1,14 @@
+h2{
+color:blue;
+background-color:red;
+font-family:Arial ;
+}
+header{
+  background-color:blue;
+  text-align:center;
+}
+nav{
+  color:red;
+  font-variant:small-caps;
+  font-size:150%;
+}
